@@ -14,5 +14,5 @@ BKSP: 127
 ENTER: 10
 star char: 42
 
-Screen size: 100x100 - 0,0 in top left
+Screen size: 38x19 - 0,0 in top left
 
